@@ -1,2 +1,2 @@
 # shopping_list_cpp
-Processing A shopping List in c++
+This is A program about how we can process a shopping list using c++ programming language.
